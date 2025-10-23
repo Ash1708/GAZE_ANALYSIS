@@ -27,7 +27,7 @@ Early fixation behaviours reveal individual differences in attentional strateg
 
 
 Heatmap Fixation Overlay:
-![heatmap_fixation](visual/heatmap_overlay_steve_susanpng) 
+![heatmap_fixation](visual/heatmap_overlay_steve_susan.png) 
 
 P1: Fixations quickly concentrated on key regions → Demonstrates task-oriented, rapid prioritization.
 P2: Fixations distributed over wider areas  → Exploratory, information-seeking strategy.
