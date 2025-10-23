@@ -19,7 +19,7 @@ Visualization: Fixation location and duration mapped as circles on scene frame.
 ## Key Findings:
 
 Static fixation Overlay :
-![Verticality](Visuals/static_overlay_steve_susan.png) 
+![static_fixation](visual/static_overlay_steve_susan.png) 
 P1 fixations: distributed broadly across painting → exploratory visual search strategy.
 P2 fixations: clustered on the central figures → focused, goal directed attention.
 
